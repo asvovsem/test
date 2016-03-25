@@ -1,2 +1,2 @@
-print ("HELLO!")
+print("HELLO WORLD!")
 input()

@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e27fd861-bc13-4228-bc64-0f031b85c4cb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Snake.py" afterPath="$PROJECT_DIR$/Snake.py" />
     </list>
     <ignored path="test1.iws" />
     <ignored path=".idea/workspace.xml" />
